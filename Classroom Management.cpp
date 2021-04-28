@@ -104,7 +104,7 @@ int main()
     char select;
     while (!exit)
     {
-        cout <<
+         cout << "\n---------------------------------------------------------------------------------------------------"
             "\n1)Display the first name and student number for all students."
             "\n2)Display the first name, student number and total grades for a chosen student."
             "\n3)Display first name, last name and student number for all students with an odd student number."
